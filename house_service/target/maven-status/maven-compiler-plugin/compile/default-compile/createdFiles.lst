@@ -1,0 +1,10 @@
+com\kgc\house\service\DistrictService.class
+com\kgc\house\service\Impl\DistrictServiceImpl.class
+com\kgc\house\service\Impl\StreetServiceImpl.class
+com\kgc\house\service\Impl\TypeServiceImpl.class
+com\kgc\house\service\Impl\UsersServiceImpl.class
+com\kgc\house\service\TypeService.class
+com\kgc\house\service\StreetService.class
+com\kgc\house\service\HouseService.class
+com\kgc\house\service\UsersService.class
+com\kgc\house\service\Impl\HouseServiceImpl.class
